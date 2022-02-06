@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Melvin Joseph Mani
-- 👀 I’m interested in all things Javascript 
-- 🌱 I’m currently learning new stuff every day 
-- 📫 How to reach me melvinjmani@gmail.com
+- 👋 Hi, I’m @MelvinJMani
+- 👀 I’m interested in Javascript, UI/UX and Generative Art. 
+- 🌱 I’m currently learning VueJS , React Native, GatsbyJS and Generative art with Javascript.
+- 💞️ I’m looking to collaborate on all topics related to Javascript , UI/UX and Generative Art. 
+- 📫  You can reach me on my email id melvinjmani@gmail.com 
 
 <!---
 MelvinJMani/MelvinJMani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
